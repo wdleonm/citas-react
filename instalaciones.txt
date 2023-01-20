@@ -1,7 +1,7 @@
 Archivo para documentar las instalaciones necesarias
 
-a.- Agregar la extensión react al navegador
-b.- Agregar la extensión 
+a.- Agregar la extension react al navegador
+b.- Agregar la extension 
 
 --Como arrancar el servidor en React --
 Proyecto Fundamentos
@@ -20,6 +20,8 @@ npm install
 2) npm run dev 
 http://localhost:5173/
 
+Intalar telwindcss y otras librerias  
+npm i -D tailwindcss postcss autoprefixer
 
 atajos
 
