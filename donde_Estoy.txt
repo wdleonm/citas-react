@@ -1,0 +1,69 @@
+Publicación con netlify.com 
+2) Usando repod de git 
+https://quiet-nougat-f60d30.netlify.app
+
+1) Usando el directorio local 
+https://fastidious-sundae-68b211.netlify.app
+
+--11/01/2023 --
+93 Añadiendo Integración Continua 
+92 Deployment por medio de Git, acá es importante recordar que cada proyecto se debe subir independiente 
+91 Deployment de un Proyecto en React
+90 Finalizando la funcionalidad de LocalStorage
+
+--29/12/2022
+89 Agregando LocalStorage para los Pacientes
+88 Eliminar un Paciente
+
+--28/12/2022
+87 Detectar un Registro Nuevo o una Edición
+86 Mostrando de Forma condicional textos e el Formulario
+85 Colocando en el State el paciente a editar
+84 Solucion a Reto 1 
+83 El Hook useEffect y Reto 1
+82 Registrando un evento en el Botóm Editar
+81 Creando botones de Editr y eliminar
+80 Mostrar Textos de Forma condicional en React
+
+--27/12/202--
+79 Generar un ID para cada paciente
+78 Mostrando la información de los pacientes en el Listado
+77 Iterando sobre un Array en React
+76 El prop {children}
+75 Creando un Componente de Errores
+
+--26/12/2022-- Retomando video 74 pero desde el respaldo 
+74 Añadiendo Pacientes al State principal y reiniciando Formulario
+
+--11/11/2022--
+73 Pasando información entre Componentes con Props
+72 Mostrar un mensaje de error
+71 Valildación de formulaerios en React
+70 Leyendo el Resto de los inputs y colocandolos en el State 
+69 Eventos y Sintaxis en React
+68 Leyendo la información escrita en un input y colocandola en el State
+67 Reglas de los Hots
+66 ¿Qué es el State en React?
+65 Que son los React Hooks
+
+--07/11/2022--
+64 Creando el Listado de Pacientes
+63 Añadiendo el resto de los campos al formulario
+62 Creando un input en el Formulario
+61 Creando el componente de formulario
+60 Aplicando clases al Header
+
+--03/11/2022-- 
+59 Añadiendo las primeras clases de Tailwind
+
+58 Instalando Tailwind CSS
+    1) npm i -D tailwindcss postcss autoprefixer 
+    2) npx tailwindcss init -p
+    3) exttenciones: 
+        a) tailwinds CSS IntelliSense
+        b) CSS Peek
+        
+57 Formas de Escribir Código CSS
+56  React Developer Tools
+55  Extensiones utilces para desarrollar en React en VSCode
+54  Creando nuestro primero primer componente

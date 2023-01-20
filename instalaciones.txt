@@ -1,0 +1,26 @@
+Archivo para documentar las instalaciones necesarias
+
+a.- Agregar la extensión react al navegador
+b.- Agregar la extensión 
+
+--Como arrancar el servidor en React --
+Proyecto Fundamentos
+Se pulsa click derecho sobre el archivo index.html y se selecciona 
+
+1) Open With Live Server
+http://127.0.0.1:5500/FundamentosJS/index.html
+
+
+Proyecto citas-react
+Instalar Nodejs bajando de la pagina https://nodejs.org/es/
+npm init vite@latest
+cd .\citas-react\
+npm install    
+
+2) npm run dev 
+http://localhost:5173/
+
+
+atajos
+
+rafce + enter --> genera el codigo para un componnte 
